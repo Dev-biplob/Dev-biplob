@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Dev-biplob
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Backend development
-- 💞️ I’m looking to collaborate on ... Frontend development 
-- 📫 How to reach me ...
+Hi there 👋, I am  Dev Biplob
+MERN Stack developer
+Web Development is my passion and I will leave no stone unturned in producing a masterpiece for you. I work with a focus on Quality, Aesthetics and Professionalism.
 
-<!---
-Dev-biplob/Dev-biplob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: HTML5 , CSS3, BOOTSTRAP5 , JAVASCRIPT , REACTJS, Node-Js , MongoDb,
+
+🔭 I’m currently working on Developing
+🌱 I’m currently learning Backend developing 
+👯 I’m looking to collaborate on Guthub
+💬 Ask me about web development
+😄 Pronouns: English
